@@ -1,0 +1,41 @@
+C:\Users\diegolof\Documents\Visual Studio 2017\Projects\ConsumindoWS\ConsumindoWS\bin\Debug\ConsumindoWS.exe.config
+C:\Users\diegolof\Documents\Visual Studio 2017\Projects\ConsumindoWS\ConsumindoWS\bin\Debug\ConsumindoWS.exe
+C:\Users\diegolof\Documents\Visual Studio 2017\Projects\ConsumindoWS\ConsumindoWS\bin\Debug\ConsumindoWS.pdb
+C:\Users\diegolof\Documents\Visual Studio 2017\Projects\ConsumindoWS\ConsumindoWS\obj\Debug\ConsumindoWS.csprojResolveAssemblyReference.cache
+C:\Users\diegolof\Documents\Visual Studio 2017\Projects\ConsumindoWS\ConsumindoWS\obj\Debug\ConsumindoWS.Form1.resources
+C:\Users\diegolof\Documents\Visual Studio 2017\Projects\ConsumindoWS\ConsumindoWS\obj\Debug\ConsumindoWS.Properties.Resources.resources
+C:\Users\diegolof\Documents\Visual Studio 2017\Projects\ConsumindoWS\ConsumindoWS\obj\Debug\ConsumindoWS.csproj.GenerateResource.Cache
+C:\Users\diegolof\Documents\Visual Studio 2017\Projects\ConsumindoWS\ConsumindoWS\obj\Debug\ConsumindoWS.csproj.CoreCompileInputs.cache
+C:\Users\diegolof\Documents\Visual Studio 2017\Projects\ConsumindoWS\ConsumindoWS\obj\Debug\ConsumindoWS.exe
+C:\Users\diegolof\Documents\Visual Studio 2017\Projects\ConsumindoWS\ConsumindoWS\obj\Debug\ConsumindoWS.pdb
+C:\Users\diego\Desktop\ConsumindoWS\ConsumindoWS\ConsumindoWS\bin\Debug\ConsumindoWS.exe.config
+C:\Users\diego\Desktop\ConsumindoWS\ConsumindoWS\ConsumindoWS\obj\Debug\ConsumindoWS.exe
+C:\Users\diego\Desktop\ConsumindoWS\ConsumindoWS\ConsumindoWS\obj\Debug\ConsumindoWS.pdb
+C:\Users\diego\Desktop\ConsumindoWS\ConsumindoWS\ConsumindoWS\obj\Debug\ConsumindoWS.csprojResolveAssemblyReference.cache
+C:\Users\diego\Desktop\ConsumindoWS\ConsumindoWS\ConsumindoWS\obj\Debug\ConsumindoWS.Form1.resources
+C:\Users\diego\Desktop\ConsumindoWS\ConsumindoWS\ConsumindoWS\obj\Debug\ConsumindoWS.Properties.Resources.resources
+C:\Users\diego\Desktop\ConsumindoWS\ConsumindoWS\ConsumindoWS\obj\Debug\ConsumindoWS.csproj.GenerateResource.Cache
+C:\Users\diego\Desktop\ConsumindoWS\ConsumindoWS\ConsumindoWS\bin\Debug\ConsumindoWS.exe
+C:\Users\diego\Desktop\ConsumindoWS\ConsumindoWS\ConsumindoWS\bin\Debug\ConsumindoWS.pdb
+C:\Users\diegolof\Desktop\ConsumindoWS\ConsumindoWS\ConsumindoWS\obj\Debug\ConsumindoWS.Form1.resources
+C:\Users\diegolof\Desktop\ConsumindoWS\ConsumindoWS\ConsumindoWS\obj\Debug\ConsumindoWS.csproj.GenerateResource.Cache
+C:\Users\diegolof\Desktop\ConsumindoWS\ConsumindoWS\ConsumindoWS\obj\Debug\ConsumindoWS.csproj.CoreCompileInputs.cache
+C:\Users\diegolof\Desktop\ConsumindoWS\ConsumindoWS\ConsumindoWS\obj\Debug\ConsumindoWS.icones.resources
+C:\Users\diegolof\Desktop\ConsumindoWS\ConsumindoWS\ConsumindoWS\bin\Debug\Transmissor do EFD-Reinf  v1.0.exe.config
+C:\Users\diegolof\Desktop\ConsumindoWS\ConsumindoWS\ConsumindoWS\bin\Debug\Transmissor do EFD-Reinf  v1.0.exe
+C:\Users\diegolof\Desktop\ConsumindoWS\ConsumindoWS\ConsumindoWS\bin\Debug\Transmissor do EFD-Reinf  v1.0.pdb
+C:\Users\diegolof\Desktop\ConsumindoWS\ConsumindoWS\ConsumindoWS\obj\Debug\ConsumindoWS.csprojResolveAssemblyReference.cache
+C:\Users\diegolof\Desktop\ConsumindoWS\ConsumindoWS\ConsumindoWS\obj\Debug\Transmissor do EFD-Reinf  v1.0.exe
+C:\Users\diegolof\Desktop\ConsumindoWS\ConsumindoWS\ConsumindoWS\obj\Debug\Transmissor do EFD-Reinf  v1.0.pdb
+C:\Users\diegolof\Desktop\ConsumindoWS\ConsumindoWS\ConsumindoWS\bin\Debug\WpfAnimatedGif.dll
+C:\Users\diegolof\Desktop\ConsumindoWS\ConsumindoWS\ConsumindoWS\bin\Debug\WpfAnimatedGif.xml
+C:\Users\diegolof\Desktop\Projetos\ConsumindoWS\ConsumindoWS\ConsumindoWS\bin\Debug\Transmissor do EFD-Reinf  v1.4.exe.config
+C:\Users\diegolof\Desktop\Projetos\ConsumindoWS\ConsumindoWS\ConsumindoWS\bin\Debug\Transmissor do EFD-Reinf  v1.4.exe
+C:\Users\diegolof\Desktop\Projetos\ConsumindoWS\ConsumindoWS\ConsumindoWS\bin\Debug\Transmissor do EFD-Reinf  v1.4.pdb
+C:\Users\diegolof\Desktop\Projetos\ConsumindoWS\ConsumindoWS\ConsumindoWS\obj\Debug\ConsumindoWS.csprojResolveAssemblyReference.cache
+C:\Users\diegolof\Desktop\Projetos\ConsumindoWS\ConsumindoWS\ConsumindoWS\obj\Debug\ConsumindoWS.Form1.resources
+C:\Users\diegolof\Desktop\Projetos\ConsumindoWS\ConsumindoWS\ConsumindoWS\obj\Debug\ConsumindoWS.icones.resources
+C:\Users\diegolof\Desktop\Projetos\ConsumindoWS\ConsumindoWS\ConsumindoWS\obj\Debug\ConsumindoWS.csproj.GenerateResource.Cache
+C:\Users\diegolof\Desktop\Projetos\ConsumindoWS\ConsumindoWS\ConsumindoWS\obj\Debug\ConsumindoWS.csproj.CoreCompileInputs.cache
+C:\Users\diegolof\Desktop\Projetos\ConsumindoWS\ConsumindoWS\ConsumindoWS\obj\Debug\Transmissor do EFD-Reinf  v1.4.exe
+C:\Users\diegolof\Desktop\Projetos\ConsumindoWS\ConsumindoWS\ConsumindoWS\obj\Debug\Transmissor do EFD-Reinf  v1.4.pdb

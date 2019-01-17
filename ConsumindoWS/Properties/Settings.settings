@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ConsumindoWS.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ConsumindoWS_wsReInf_RecepcaoLoteReinf" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://preprodefdreinf.receita.fazenda.gov.br/WsREINF/RecepcaoLoteReinf.svc</Value>
+    </Setting>
+    <Setting Name="Transmissor_do_EFD_Reinf__v1_0_ConsultasReinf_ConsultasReinf" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://hom-reinf.receita.fazenda.gov.br/WsREINF/ConsultasReinf.svc</Value>
+    </Setting>
+    <Setting Name="Transmissor_do_EFD_Reinf__v1_4_WsReinfProd_RecepcaoLoteReinf" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://reinf.receita.fazenda.gov.br/WsREINF/RecepcaoLoteReinf.svc</Value>
+    </Setting>
+    <Setting Name="Transmissor_do_EFD_Reinf__v1_4_WSConsultaReinfProd_ConsultasReinf" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://reinf.receita.fazenda.gov.br/WsREINF/ConsultasReinf.svc</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,9 @@
+C:\Users\diegolof\Desktop\Projetos\ConsumindoWS\ConsumindoWS\ConsumindoWS\bin\x64\Release\Transmissor do EFD-Reinf  v1.4.exe.config
+C:\Users\diegolof\Desktop\Projetos\ConsumindoWS\ConsumindoWS\ConsumindoWS\bin\x64\Release\Transmissor do EFD-Reinf  v1.4.exe
+C:\Users\diegolof\Desktop\Projetos\ConsumindoWS\ConsumindoWS\ConsumindoWS\bin\x64\Release\Transmissor do EFD-Reinf  v1.4.XmlSerializers.dll
+C:\Users\diegolof\Desktop\Projetos\ConsumindoWS\ConsumindoWS\ConsumindoWS\obj\x64\Release\ConsumindoWS.Form1.resources
+C:\Users\diegolof\Desktop\Projetos\ConsumindoWS\ConsumindoWS\ConsumindoWS\obj\x64\Release\ConsumindoWS.icones.resources
+C:\Users\diegolof\Desktop\Projetos\ConsumindoWS\ConsumindoWS\ConsumindoWS\obj\x64\Release\ConsumindoWS.csproj.GenerateResource.Cache
+C:\Users\diegolof\Desktop\Projetos\ConsumindoWS\ConsumindoWS\ConsumindoWS\obj\x64\Release\ConsumindoWS.csproj.CoreCompileInputs.cache
+C:\Users\diegolof\Desktop\Projetos\ConsumindoWS\ConsumindoWS\ConsumindoWS\obj\x64\Release\Transmissor do EFD-Reinf  v1.4.exe
+C:\Users\diegolof\Desktop\Projetos\ConsumindoWS\ConsumindoWS\ConsumindoWS\obj\x64\Release\Transmissor do EFD-Reinf  v1.4.XmlSerializers.dll
