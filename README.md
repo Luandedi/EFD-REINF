@@ -1,2 +1,2 @@
-# EFD_REINF
+# EFD-REINF
 Software pronto. assinatura dos eventos  com certificado Digital, envio para produção ou ambiente de teste, consulta dos lotes transmitidos...
